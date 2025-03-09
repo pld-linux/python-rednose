@@ -64,7 +64,7 @@ wyników testów na konsoli.
 
 %prep
 %setup -q -n rednose-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
