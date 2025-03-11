@@ -8,7 +8,7 @@ Summary:	Coloured output for nosetests
 Summary(pl.UTF-8):	Kolorowe wyjście z testów nose
 Name:		python-rednose
 Version:	1.3.0
-Release:	7
+Release:	8
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/rednose/
